@@ -1,4 +1,4 @@
-# A Yen for the Future
+# Japanese Yen Forecasting
 
 In this assignment, I used Time-Series Forcasting and Linear Regression Modeling to predict future movements of the Japanese yen versus the U.S. dollar. 
 
